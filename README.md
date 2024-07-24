@@ -5,9 +5,9 @@ I'm still working on cleaning up the rest of the code. I will upload more code s
 ## set up
 Clone the github repo
 ```bash
-git clone https://github.com/ZimuHuo/pymri_recon.git
+git clone https://github.com/ZimuHuo/mri_recon_toolbox
 ```
-Create conda env from .yml files 
+Create conda env from requirement file
 ```bash
 cd mri_recon
 conda create -n mri python=3.8
@@ -15,5 +15,5 @@ pip install -r requirements.txt
 ```
 Acvtivate the conda environment
 ```bash
- conda activate mri_recon
+ conda activate mri
 ```
