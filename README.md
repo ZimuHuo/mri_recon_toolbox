@@ -9,7 +9,7 @@ git clone https://github.com/ZimuHuo/mri_recon_toolbox
 ```
 Create conda env from requirement file
 ```bash
-cd mri_recon
+cd mri_recon_toolbox
 conda create -n mri python=3.8
 pip install -r requirements.txt
 ```
